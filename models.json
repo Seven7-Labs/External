@@ -2,6 +2,11 @@
    "clouds" : [  "qwen3-coder:480b-cloud" , "gpt-oss:120b-cloud" , "nemotron-3-super:cloud" , "devstral-2:123b-cloud" , "minimax-m3:cloud" , "gemma4:31b-cloud" , "devstral-small-2:24b-cloud" ,
      "nemotron-3-nano:30b-cloud" , "qwen3-coder-next:cloud" , "rnj-1:8b-cloud" , "minimax-m2.5:cloud" , "glm-4.7:cloud" , "qwen3-coder:480b-cloud" , "minimax-m2.1:cloud" , "gemma3:27b-cloud" , 
      "ministral-3:14b-cloud" ] ,
+   "gemini": "https://gemini.google.com/app",
+   "openai": "https://chatgpt.com/",
+   "deepseek": "https://chat.deepseek.com/",
+   "kimi": "https://build.nvidia.com/moonshotai/kimi-k2.6/playground",
+   "mistral": "https://chat.mistral.ai/chat",
    "allowed_size" : "5" ,
    "last_updated" : "30-06-2026"
    
